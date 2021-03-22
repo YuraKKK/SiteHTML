@@ -24,3 +24,8 @@ img {
     width: 400px;
     height: 230px;
 }
+p {
+    background-color: lightblue;
+    /*padding: 10px;*/
+    padding-left: 50px;
+}
