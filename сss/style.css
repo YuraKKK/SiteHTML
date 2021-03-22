@@ -1,0 +1,23 @@
+﻿body {
+    background-color: lightgray;
+}
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
+.cat {
+    width:400px ;
+    height:230px;
+}
+.dog {
+    width: 400px;
+    height: 230px;
+}
